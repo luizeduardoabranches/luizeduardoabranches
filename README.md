@@ -1,8 +1,6 @@
 
 ## Hi, I am [Luiz Eduardo Abranches!](http://aboutme.mywebcommunity.org/)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <br/>
-<br/>
-
 I’m currently working on ...
 - 🌱 I’m currently learning more about JavaScript, React and NodeJS
 - 👯 I’m looking to collaborate on React projects
