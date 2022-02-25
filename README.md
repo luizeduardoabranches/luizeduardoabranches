@@ -3,7 +3,7 @@
 
 <ul>
   <li>Hello world 🌎</li>
-  <li>Amante de programção 📚 / Programmer lover 📚</li>
+  <li>Programmer lover 📚</li>
 </ul>
        
 
